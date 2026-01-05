@@ -123,48 +123,56 @@ npm run dev
 
 Environment variables (.env) are required for database connection and authentication secrets.
 
-📡 API Overview
-Method	Endpoint	Description
-POST	/auth/register	Register new user
-POST	/auth/login	User login
-GET	/products	Fetch all products
-POST	/orders	Place an order
-PUT	/admin/product/:id	Update product
-DELETE	/admin/product/:id	Delete product
+---
 
+## 📡 API Overview
+
+| Method | Endpoint | Description |
+|------|---------|-------------|
+| POST | /auth/register | Register new user |
+| POST | /auth/login | User login |
+| GET  | /products | Fetch all products |
+| POST | /orders | Place an order |
+| PUT  | /admin/product/:id | Update product |
+| DELETE | /admin/product/:id | Delete product |
+
+---
 
 ## 🔐 Security Implementation
 
-📌 JWT-based authentication
+- JWT-based authentication  
+- Protected routes for admin access  
+- Secure API request handling  
+- Environment variable protection  
 
-Protected routes for admin access
+---
 
-Secure API request handling
+## 🚀 Deployment
 
-Environment variable protection
+- Frontend deployed using **Vercel**  
+- Admin panel deployed using **Vercel**  
+- Backend API deployed using **Vercel**  
 
-🚀 Deployment
+Independent deployments ensure better scalability and maintenance.
 
-Frontend deployed using Vercel
+---
 
-Admin panel deployed using Vercel
+## 👨‍💻 Author
 
-Backend API deployed using Vercel
+**Indresh Harshan**  
+GitHub: https://github.com/indreshharshan  
 
-Independent deployments ensure better scalability and maintenance
+---
 
+## 📄 License
 
-👨‍💻 Author
+This project is licensed under the **MIT License**.
 
-Indresh Harshan
-GitHub: https://github.com/indreshharshan
+---
 
-📄 License
+## 🌟 Conclusion
 
-This project is licensed under the MIT License.
+**Shopever is a complete full-stack e-commerce solution built with industry-standard practices.**
 
-🌟 Conclusion
-
-Shopever is a complete full-stack e-commerce solution built with industry-standard practices.
 The project demonstrates strong skills in frontend development, backend API design, database management, authentication, and deployment.
 
