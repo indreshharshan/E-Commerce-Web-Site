@@ -126,8 +126,10 @@ npm run dev
 
 ----
 
+##  **API Section **
+
+```markdown
 ## 📡 API Overview
-```bash
 
 | Method | Endpoint | Description |
 |------|---------|-------------|
@@ -137,8 +139,6 @@ npm run dev
 | POST | /orders | Place an order |
 | PUT  | /admin/product/:id | Update product |
 | DELETE | /admin/product/:id | Delete product |
-
----
 
 ## 🔐 Security Implementation
 
