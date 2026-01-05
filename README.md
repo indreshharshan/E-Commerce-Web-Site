@@ -131,7 +131,9 @@ GET	/products	Fetch all products
 POST	/orders	Place an order
 PUT	/admin/product/:id	Update product
 DELETE	/admin/product/:id	Delete product
-🔐 Security Implementation
+
+
+## 🔐 Security Implementation
 
 📌 JWT-based authentication
 
