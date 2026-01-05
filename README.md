@@ -189,4 +189,4 @@ This project is licensed under the **MIT License**.
 ## 🌟 Conclusion
 
 **Shopever is a complete full-stack e-commerce solution built with industry-standard practices.**
-The project demonstrates strong skills in frontend development, backend API design, datab
+The project demonstrates strong skills in frontend development, backend API design, database management, authentication, and deployment.
