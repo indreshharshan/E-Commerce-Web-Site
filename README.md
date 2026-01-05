@@ -125,6 +125,7 @@ npm run dev
 ----
 
 ## 📡 API Overview
+```bash
 
 | Method | Endpoint | Description |
 |------|---------|-------------|
