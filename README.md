@@ -107,6 +107,7 @@ git clone https://github.com/indreshharshan/E-Commerce-Web-Site.git
 cd E-Commerce-Web-Site
 
 
+
 ### Backend Setup
 cd backend
 npm install
@@ -121,6 +122,7 @@ Admin Panel Setup
 cd admin
 npm install
 npm run dev
+
 
 ----
 
