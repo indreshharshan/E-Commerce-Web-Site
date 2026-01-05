@@ -106,12 +106,13 @@ Each module is independently developed and deployed, ensuring modularity and sca
 git clone https://github.com/indreshharshan/E-Commerce-Web-Site.git
 cd E-Commerce-Web-Site
 
-Backend Setup
+
+### Backend Setup
 cd backend
 npm install
 npm run dev
 
-Frontend Setup
+## Frontend Setup
 cd frontend
 npm install
 npm run dev
@@ -121,9 +122,7 @@ cd admin
 npm install
 npm run dev
 
-Environment variables (.env) are required for database connection and authentication secrets.
-
----
+----
 
 ## 📡 API Overview
 
