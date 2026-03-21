@@ -1,3 +1,6 @@
+<img width="1376" height="768" alt="Gemini_Generated_Image_r2nx2pr2nx2pr2nx" src="https://github.com/user-attachments/assets/2f3bc536-9af4-46e6-9e8e-d84eb9e5a1d2" />
+
+---
 # 🛒 Shopever – Full Stack E-Commerce Web Application
 
 Shopever is a fully functional full-stack e-commerce web application developed to deliver a seamless online shopping experience for users and a powerful management system for administrators.
